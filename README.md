@@ -2,6 +2,8 @@
 
 A simple HTML-based web application designed to help students track internship opportunities, manage applications, and stay organized during their internship search journey.
 
+# LIVE DEMO
+https://debugwithyash.github.io/student-internship-tracker/
 ## 🚀 Features
 
 * Navigation Bar
